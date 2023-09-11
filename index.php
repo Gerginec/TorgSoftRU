@@ -22,7 +22,7 @@ $random = $_POST['sort_id'].mt_rand(0,99999999999);
 $category_html_auto = $usr;
 ?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
